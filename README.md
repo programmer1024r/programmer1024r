@@ -17,7 +17,7 @@
 <a href="https://instagram.com/reem_mikulsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reem_mikulsky" height="30" width="40" /></a>
 <a href="https://medium.com/@reempro112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@reempro112" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/reempro112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="reempro112" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/reem_mikuslky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reem_mikuslky" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/programmer1024r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="programmer1024r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
