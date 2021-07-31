@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Re'em</h1>
-<h3 align="center">A student in Atid School for Science Lod, and In magshimim program</h3>
+<h1 align="center">Hi 👋, I'm Re'em Mikulsky</h1>
+<h3 align="center">I'm a 16 years old student in Atid School for Science Lod, and In magshimim program from Isreal</h3>
 
 - 🔭 I’m currently working on [winShare](https://github.com/CoolFileThings/FToverASN)
 
