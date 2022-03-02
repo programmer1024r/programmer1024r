@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmer1024r&label=Profile%20views&color=0e75b6&style=flat" alt="programmer1024r" /> </p>
 
-- 🔭 I’m currently working on [winShare](https://github.com/CoolFileThings/FToverASN)
-
-- 🌱 I’m currently learning **Data Sturcture and Algorithms**
-
 - 👨‍💻 All of my projects are available at [https://github.com/programmer1024r](https://github.com/programmer1024r)
 
 - 📝 I regularly write articles on [https://reempro112.medium.com/](https://reempro112.medium.com/)
