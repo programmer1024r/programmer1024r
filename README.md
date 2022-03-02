@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmer1024r&label=Profile%20views&color=0e75b6&style=flat" alt="programmer1024r" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/programmer1024r](https://github.com/r33m-m1kul5k1)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/r33m-m1kul5k1)
 
-- 📝 I regularly write articles on [https://reempro112.medium.com/](https://reempro112.medium.com/)
+- 📝 I regularly write articles on [medium](https://reempro112.medium.com/)
 
 - 📫 How to reach me **reempro112@gmail.com**
 
